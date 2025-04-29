@@ -25,7 +25,7 @@ Automated mentee mentor allocation system basis on their interested field.
 
 
 - 🎯 [Mentor Allocation System](https://github.com/your-repo-link)
-- 🏠 [House Rent Prediction](https://github.com/your-repo-link)
+- 💻 [Text File Manipulator](https://github.com/your-repo-link)
 - 📊 [Loan Approval Predictor](https://github.com/your-repo-link)
 
 
@@ -44,10 +44,6 @@ Automated mentee mentor allocation system basis on their interested field.
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 
 ---
-
-## 📊 GitHub Stats
-![Bhavya's GitHub Streak](https://streak-stats.demolab.com?user=BhavyaDhimxn&theme=radical&hide_border=true)
-
 ---
 
 ## 📬 Let's Connect!
