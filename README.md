@@ -52,7 +52,7 @@ Automated mentee mentor allocation system basis on their interested field.
 - 💼 [LinkedIn](https://www.linkedin.com/in/yash-raj-935303269/)
 - 🧑‍💻 [GitHub](https://github.com/Yashraj0103)
 - 🧠 [Leetcode](https://leetcode.com/u/YashOp0103/)
-- 🌐 [Portfolio](https://harshjindal18.github.io/portfolio/)
+- 🌐 [Portfolio]()
 - 📧 Email: official.yash0103@gmail.com
 
 Let's connect and collaborate on exciting tech projects! 🚀
