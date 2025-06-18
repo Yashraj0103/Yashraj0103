@@ -26,7 +26,7 @@ Automated mentee mentor allocation system basis on their interested field.
 ###🔁 Text File Manipultor
 
 
-- 🎯 [Mentor Allocation System](https://github.com/your-repo-link)
+- 🎯 [Mentor Allocation System](https://github.com/Yashraj0103/Mentor-Allocation-System)
 - 💻 [Text File Manipulator](https://github.com/your-repo-link)
 - 📊 [Loan Approval Predictor](https://github.com/your-repo-link)
 
