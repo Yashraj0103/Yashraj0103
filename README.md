@@ -36,7 +36,6 @@ Automated mentee mentor allocation system basis on their interested field.
 ## 🚀 Skills & Tools
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
