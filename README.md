@@ -7,7 +7,7 @@ I'm a **final year B.Tech student** specializing in **Cloud Computing & Virtuali
 ---
 
 ## 🌟 About Me
-- 🎓 **B.Tech in Computer Science (2022-2026)** | UPES, Dehradun | GPA: **7.50/10**
+- 🎓 **B.Tech in Computer Science (2022-2026)** | UPES, Dehradun 
 - 🏅 **Certifications:** AWS Academy Graduate AWS Academy Introduction to Cloud Semester 2, 
                         AWS Academy Graduate AWS Academy Cloud Architecting, 
                         AWS Skill Builder Cloud Practitioner Essentials
