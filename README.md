@@ -11,7 +11,7 @@ I'm a **final year B.Tech student** specializing in **Cloud Computing & Virtuali
 - 🏅 **Certifications:** AWS Academy Graduate AWS Academy Introduction to Cloud Semester 2, 
                         AWS Academy Graduate AWS Academy Cloud Architecting, 
                         AWS Skill Builder Cloud Practitioner Essentials
-- 💻 **Tech Stack:** Java, Python, JavaScript, HTML, CSS, ReactJS, AngularJS, Node.js
+- 💻 **Tech Stack:** Java, Python, JavaScript, HTML, CSS, Tailwind css
 - 🛠️ **Tools & Platforms:** Docker, Kubernetes, Jenkins, GitHub Actions, MySQL, Linux
 - 🌱 Currently exploring , **Kubernetes orchestration**, and **DevOps pipelines**
 - 🌐 **Location:** Patna, India
